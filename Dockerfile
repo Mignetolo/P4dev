@@ -8,6 +8,9 @@ RUN apt-get update && TZ=Europe/Warsaw && DEBIAN_FRONTEND=noninteractive apt-get
     wget \
     curl \
     gnupg2 \
+    iputils-ping\
+    net-tools\
+    nano\
     lsb-release && rm -rf /var/lib/apt/lists/*
 
 ENV TZ=Europe/Warsaw
