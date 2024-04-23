@@ -1,3 +1,5 @@
+mkdir p4dev
+cd p4dev
 echo """#include <core.p4>
 #include <v1model.p4>
 
