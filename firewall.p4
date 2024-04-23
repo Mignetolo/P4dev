@@ -1,6 +1,4 @@
-mkdir p4dev
-cd p4dev
-echo """#include <core.p4>
+#include <core.p4>
 #include <v1model.p4>
 
 const bit<32> WHITE_LIST_TABLE_SIZE = 256;
@@ -135,4 +133,4 @@ V1Switch(
     MyEgress(),
     MyComputeChecksum(),
     MyDeparser()
-) main;""" >> firewall.p4
+) main;
