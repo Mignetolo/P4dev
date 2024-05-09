@@ -1,8 +1,9 @@
 # P4dev
 
-Projekt na studia woo hoo :^)))))
+Projekt na studia woo hoo
 
-https://github.com/Mignetolo/P4dev/assets/100854523/4f77fdff-c2ae-42f1-a130-746d3a21a1c7
+![GM-xKwMX0AAKB1u](https://github.com/Mignetolo/P4dev/assets/100854523/786791a8-09fc-42f0-9571-d3601f31ccc8)
 
+WOO HOO 
 
 Inspiracja czerpana z : https://github.com/p4lang/tutorials/tree/master
